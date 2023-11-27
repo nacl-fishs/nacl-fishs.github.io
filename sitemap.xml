@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://nacl-fishs.github.io/blog/contact/index.html</loc>
+    
+    <lastmod>2023-11-27</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://nacl-fishs.github.io/blog/posts/4a17b156.html</loc>
     
     <lastmod>2023-11-27</lastmod>
@@ -16,7 +23,14 @@
   </url>
   
   <url>
-    <loc>https://nacl-fishs.github.io/blog/contact/index.html</loc>
+    <loc>https://nacl-fishs.github.io/blog/friends/index.html</loc>
+    
+    <lastmod>2023-11-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nacl-fishs.github.io/blog/404/index.html</loc>
     
     <lastmod>2023-11-27</lastmod>
     
@@ -30,20 +44,6 @@
   </url>
   
   <url>
-    <loc>https://nacl-fishs.github.io/blog/friends/index.html</loc>
-    
-    <lastmod>2023-11-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nacl-fishs.github.io/blog/about/index.html</loc>
-    
-    <lastmod>2023-11-27</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://nacl-fishs.github.io/blog/categories/index.html</loc>
     
     <lastmod>2023-11-27</lastmod>
@@ -51,7 +51,7 @@
   </url>
   
   <url>
-    <loc>https://nacl-fishs.github.io/blog/404/index.html</loc>
+    <loc>https://nacl-fishs.github.io/blog/about/index.html</loc>
     
     <lastmod>2023-11-27</lastmod>
     

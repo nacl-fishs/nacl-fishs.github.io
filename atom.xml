@@ -6,7 +6,7 @@
   <link href="https://nacl-fishs.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://nacl-fishs.github.io/blog/"/>
-  <updated>2023-11-27T13:14:26.429Z</updated>
+  <updated>2023-11-27T18:09:00.479Z</updated>
   <id>https://nacl-fishs.github.io/blog/</id>
   
   <author>
@@ -17,24 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="https://nacl-fishs.github.io/blog/posts/0.html"/>
-    <id>https://nacl-fishs.github.io/blog/posts/0.html</id>
-    <published>2023-11-27T13:08:29.627Z</published>
-    <updated>2023-11-27T13:14:26.429Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="https://nacl-fishs.github.io/blog/posts/4a17b156.html"/>
     <id>https://nacl-fishs.github.io/blog/posts/4a17b156.html</id>
-    <published>2023-11-27T13:08:29.627Z</published>
-    <updated>2023-11-27T13:14:26.434Z</updated>
+    <published>2023-11-27T18:09:00.479Z</published>
+    <updated>2023-11-27T18:09:00.479Z</updated>
     
     
       
@@ -44,6 +31,19 @@
     <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
         
       
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://nacl-fishs.github.io/blog/posts/0.html"/>
+    <id>https://nacl-fishs.github.io/blog/posts/0.html</id>
+    <published>2023-11-27T18:09:00.478Z</published>
+    <updated>2023-11-27T18:09:00.478Z</updated>
+    
     
     
     
