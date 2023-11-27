@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://nacl-fishs.github.io/blog/contact/index.html</loc>
+    <loc>https://nacl-fishs.github.io/contact/index.html</loc>
     
     <lastmod>2023-11-27</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nacl-fishs.github.io/blog/posts/4a17b156.html</loc>
+    <loc>https://nacl-fishs.github.io/posts/4a17b156.html</loc>
     
     <lastmod>2023-11-27</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nacl-fishs.github.io/blog/posts/0.html</loc>
+    <loc>https://nacl-fishs.github.io/posts/0.html</loc>
     
     <lastmod>2023-11-27</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nacl-fishs.github.io/blog/friends/index.html</loc>
+    <loc>https://nacl-fishs.github.io/friends/index.html</loc>
     
     <lastmod>2023-11-27</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nacl-fishs.github.io/blog/404/index.html</loc>
+    <loc>https://nacl-fishs.github.io/404/index.html</loc>
     
     <lastmod>2023-11-27</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nacl-fishs.github.io/blog/tags/index.html</loc>
+    <loc>https://nacl-fishs.github.io/categories/index.html</loc>
     
     <lastmod>2023-11-27</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nacl-fishs.github.io/blog/categories/index.html</loc>
+    <loc>https://nacl-fishs.github.io/tags/index.html</loc>
     
     <lastmod>2023-11-27</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nacl-fishs.github.io/blog/about/index.html</loc>
+    <loc>https://nacl-fishs.github.io/about/index.html</loc>
     
     <lastmod>2023-11-27</lastmod>
     
@@ -59,7 +59,7 @@
   
 
   <url>
-    <loc>https://nacl-fishs.github.io/blog</loc>
+    <loc>https://nacl-fishs.github.io/</loc>
     <lastmod>2023-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
