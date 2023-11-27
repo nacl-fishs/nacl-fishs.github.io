@@ -3,11 +3,11 @@
   <title>Naclfish的博客</title>
   
   <subtitle>咸鱼 の 博客</subtitle>
-  <link href="http://pudongping.github.io/atom.xml" rel="self"/>
+  <link href="https://nacl-fishs.github.io/blog/atom.xml" rel="self"/>
   
-  <link href="http://pudongping.github.io/"/>
+  <link href="https://nacl-fishs.github.io/blog/"/>
   <updated>2023-11-27T13:14:26.429Z</updated>
-  <id>http://pudongping.github.io/</id>
+  <id>https://nacl-fishs.github.io/blog/</id>
   
   <author>
     <name>Naclfish</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="http://pudongping.github.io/posts/0.html"/>
-    <id>http://pudongping.github.io/posts/0.html</id>
+    <link href="https://nacl-fishs.github.io/blog/posts/0.html"/>
+    <id>https://nacl-fishs.github.io/blog/posts/0.html</id>
     <published>2023-11-27T13:08:29.627Z</published>
     <updated>2023-11-27T13:14:26.429Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://pudongping.github.io/posts/4a17b156.html"/>
-    <id>http://pudongping.github.io/posts/4a17b156.html</id>
+    <link href="https://nacl-fishs.github.io/blog/posts/4a17b156.html"/>
+    <id>https://nacl-fishs.github.io/blog/posts/4a17b156.html</id>
     <published>2023-11-27T13:08:29.627Z</published>
     <updated>2023-11-27T13:14:26.434Z</updated>
     
