@@ -6,7 +6,7 @@
   <link href="https://nacl-fishs.github.io/atom.xml" rel="self"/>
   
   <link href="https://nacl-fishs.github.io/"/>
-  <updated>2023-11-27T18:09:00.479Z</updated>
+  <updated>2023-11-28T09:41:33.999Z</updated>
   <id>https://nacl-fishs.github.io/</id>
   
   <author>
@@ -17,18 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://nacl-fishs.github.io/posts/4a17b156.html"/>
-    <id>https://nacl-fishs.github.io/posts/4a17b156.html</id>
-    <published>2023-11-27T18:09:00.479Z</published>
-    <updated>2023-11-27T18:09:00.479Z</updated>
+    <title>hello demo</title>
+    <link href="https://nacl-fishs.github.io/posts/f653e7bc.html"/>
+    <id>https://nacl-fishs.github.io/posts/f653e7bc.html</id>
+    <published>2023-11-28T08:46:55.000Z</published>
+    <updated>2023-11-28T09:41:33.999Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;Font属性&quot;&gt;&lt;a href=&quot;#Font属性&quot; class=&quot;headerlink&quot; title=&quot;Font属性&quot;&gt;&lt;/a&gt;Font属性&lt;/h2&gt;&lt;p&gt;使用 &lt;code&gt;font&lt;/code&gt; 属性，能够将字号、行高、字体一起设置。&lt;/p&gt;
+&lt;pre</summary>
         
       
     
@@ -41,9 +42,30 @@
     <title></title>
     <link href="https://nacl-fishs.github.io/posts/0.html"/>
     <id>https://nacl-fishs.github.io/posts/0.html</id>
-    <published>2023-11-27T18:09:00.478Z</published>
-    <updated>2023-11-27T18:09:00.478Z</updated>
+    <published>2023-11-27T18:27:30.567Z</published>
+    <updated>2023-11-27T18:27:30.567Z</updated>
     
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://nacl-fishs.github.io/posts/4a17b156.html"/>
+    <id>https://nacl-fishs.github.io/posts/4a17b156.html</id>
+    <published>2023-11-27T18:27:30.567Z</published>
+    <updated>2023-11-27T18:27:30.567Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
     
     
     
