@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="技术博客 LLM大模型 python node.js vue">
+    <meta name="keywords" content="JavaScript起步, 技术博客 LLM大模型 python node.js vue">
     <meta name="description" content="咸鱼的技术博客 技术博客 LLM大模型 python node.js vue">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -18,7 +18,7 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
-    <title>Naclfish的博客</title>
+    <title>JavaScript起步 | Naclfish的博客</title>
     <link rel="icon" type="image/png" href="/medias/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/all.css">
@@ -328,12 +328,12 @@
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/0.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/11.jpg')">
     <div class="container" style="right: 0px;left: 0px;">
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title"></h1>
+                    <h1 class="description center-align post-title">JavaScript起步</h1>
                 </div>
             </div>
         </div>
@@ -454,6 +454,15 @@
                 </div>
                 <div class="col s5 right-align">
                     
+                    <div class="post-cate">
+                        <i class="fas fa-bookmark fa-fw icon-category"></i>
+                        
+                            <a href="/categories/JavaScript/" class="post-category">
+                                JavaScript
+                            </a>
+                        
+                    </div>
+                    
                 </div>
             </div>
 
@@ -461,7 +470,7 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-minus fa-fw"></i>发布日期:&nbsp;&nbsp;
-                    2023-11-28
+                    2023-11-30
                 </div>
                 
 
@@ -470,7 +479,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    0
+                    446
                 </div>
                 
 
@@ -500,7 +509,59 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                
+                <h3 id="1-1-程序书写的位置"><a href="#1-1-程序书写的位置" class="headerlink" title="1.1 程序书写的位置"></a>1.1 程序书写的位置</h3><p>在页面中，<code>&lt;script type="text/javascript"&gt;&lt;/script&gt;</code>标签对中是书写JavaScript程序的地方。</p>
+<pre class="line-numbers language-none"><code class="language-none">htmlCopy code&lt;script type="text/javascript"&gt;
+    // JavaScript code goes here
+&lt;/script&gt;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>
+
+<p><code>text</code> 表示文本，JavaScript也是一种纯文本的语言。</p>
+<h3 id="1-2-alert语句"><a href="#1-2-alert语句" class="headerlink" title="1.2 alert语句"></a>1.2 alert语句</h3><p>我们学习的第一个语句是 <code>alert</code> 语句，用于弹出警告框。</p>
+<pre class="line-numbers language-none"><code class="language-none">htmlCopy code&lt;script type="text/javascript"&gt;
+    alert("今天天气真好");
+&lt;/script&gt;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>
+
+<p>如果要弹出两次警告框，可以写两条 <code>alert</code> 语句：</p>
+<pre class="line-numbers language-none"><code class="language-none">htmlCopy code&lt;script type="text/javascript"&gt;
+    alert("今天天气真好");
+    alert("哈哈哈哈");
+&lt;/script&gt;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre>
+
+<h3 id="1-3-语法规则"><a href="#1-3-语法规则" class="headerlink" title="1.3 语法规则"></a>1.3 语法规则</h3><p>JavaScript对换行、缩进、空格不敏感，也就是说，下面这些代码是等价的：</p>
+<pre class="line-numbers language-none"><code class="language-none">htmlCopy code&lt;script type="text/javascript"&gt;
+    alert("今天蓝天白云");
+    alert("哈哈哈，我很高兴");
+&lt;/script&gt;
+htmlCopy code&lt;script type="text/javascript"&gt;
+    alert("今天蓝天白云"); alert("哈哈哈，我很高兴");
+&lt;/script&gt;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+<p>每一条语句末尾要加上分号，虽然分号不是必须的，但为了程序压缩和规范性，建议加上分号：</p>
+<pre class="line-numbers language-none"><code class="language-none">htmlCopy code&lt;script type="text/javascript"&gt;
+    alert("今天蓝天白云");
+&lt;/script&gt;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>
+
+<p>所有的符号都是英语的，不应该使用中文符号。</p>
+<p>另外，要注意确保 <code>script</code> 标签写正确：</p>
+<pre class="line-numbers language-none"><code class="language-none">htmlCopy code&lt;script type="text/javascript"&gt;
+    alert("今天蓝天白云");
+&lt;/script&gt;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>
+
+<h3 id="1-4-注释"><a href="#1-4-注释" class="headerlink" title="1.4 注释"></a>1.4 注释</h3><p>在程序中，可以使用注释来提供说明，这些内容不会被执行。</p>
+<p>使用 <code>//</code> 表示单行注释：</p>
+<pre class="line-numbers language-none"><code class="language-none">htmlCopy code&lt;script type="text/javascript"&gt;
+    // 这是单行注释，用于解释代码的作用
+    alert("你好");
+&lt;/script&gt;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre>
+
+<p>也可以使用 <code>/* */</code> 表示多行注释：</p>
+<pre class="line-numbers language-none"><code class="language-none">htmlCopy code&lt;script type="text/javascript"&gt;
+    /* 
+    这是多行注释，
+    可以用于详细说明代码
+    */
+    alert("你好");
+&lt;/script&gt;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
                 
             </div>
             <hr/>
@@ -526,7 +587,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="https://nacl-fishs.github.io/posts/0.html">https://nacl-fishs.github.io/posts/0.html</a>
+                    <a href="https://nacl-fishs.github.io/posts/8a4c4cee.html">https://nacl-fishs.github.io/posts/8a4c4cee.html</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -735,6 +796,47 @@
             <div class="article-badge left-badge text-color">
                 <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
             <div class="card">
+                <a href="/posts/9a9e02bc.html">
+                    <div class="card-image">
+                        
+                        
+                        <img src="/medias/featureimages/20.jpg" class="responsive-img" alt="JavaScript变量">
+                        
+                        <span class="card-title">JavaScript变量</span>
+                    </div>
+                </a>
+                <div class="card-content article-content">
+                    <div class="summary block-with-text">
+                        
+                            
+                        
+                    </div>
+                    <div class="publish-info">
+                        <span class="publish-date">
+                            <i class="far fa-clock fa-fw icon-date"></i>2023-11-30
+                        </span>
+                        <span class="publish-author">
+                            
+                            <i class="fas fa-bookmark fa-fw icon-category"></i>
+                            
+                            <a href="/categories/JavaScript/" class="post-category">
+                                    JavaScript
+                                </a>
+                            
+                            
+                        </span>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        
+        
+        <div class="article col s12 m6" data-aos="fade-up">
+            <div class="article-badge right-badge text-color">
+                下一篇&nbsp;<i class="fas fa-chevron-right"></i>
+            </div>
+            <div class="card">
                 <a href="/posts/f653e7bc.html">
                     <div class="card-image">
                         
@@ -751,50 +853,13 @@
                         
                     </div>
                     <div class="publish-info">
-                        <span class="publish-date">
-                            <i class="far fa-clock fa-fw icon-date"></i>2023-11-28
-                        </span>
-                        <span class="publish-author">
-                            
-                            <i class="fas fa-user fa-fw"></i>
-                            Alex
-                            
-                        </span>
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-        
-        
-        <div class="article col s12 m6" data-aos="fade-up">
-            <div class="article-badge right-badge text-color">
-                下一篇&nbsp;<i class="fas fa-chevron-right"></i>
-            </div>
-            <div class="card">
-                <a href="/posts/4a17b156.html">
-                    <div class="card-image">
-                        
-                        
-                        <img src="/medias/featureimages/12.jpg" class="responsive-img" alt="Hello World">
-                        
-                        <span class="card-title">Hello World</span>
-                    </div>
-                </a>
-                <div class="card-content article-content">
-                    <div class="summary block-with-text">
-                        
-                            
-                        
-                    </div>
-                    <div class="publish-info">
                             <span class="publish-date">
                                 <i class="far fa-clock fa-fw icon-date"></i>2023-11-28
                             </span>
                         <span class="publish-author">
                             
                             <i class="fas fa-user fa-fw"></i>
-                            Naclfish
+                            Alex
                             
                         </span>
                     </div>
@@ -942,7 +1007,7 @@
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">716</span>&nbsp;字
+                class="white-color">1.8k</span>&nbsp;字
             
             
             

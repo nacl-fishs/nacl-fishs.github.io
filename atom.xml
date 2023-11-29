@@ -6,7 +6,7 @@
   <link href="https://nacl-fishs.github.io/atom.xml" rel="self"/>
   
   <link href="https://nacl-fishs.github.io/"/>
-  <updated>2023-11-28T09:41:33.999Z</updated>
+  <updated>2023-11-29T16:45:37.813Z</updated>
   <id>https://nacl-fishs.github.io/</id>
   
   <author>
@@ -15,6 +15,52 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript变量</title>
+    <link href="https://nacl-fishs.github.io/posts/9a9e02bc.html"/>
+    <id>https://nacl-fishs.github.io/posts/9a9e02bc.html</id>
+    <published>2023-11-29T16:44:51.000Z</published>
+    <updated>2023-11-29T16:45:37.813Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;数字和字符串-直接量&quot;&gt;&lt;a href=&quot;#数字和字符串-直接量&quot; class=&quot;headerlink&quot; title=&quot;数字和字符串 - 直接量&quot;&gt;&lt;/a&gt;数字和字符串 -</summary>
+        
+      
+    
+    
+    
+    <category term="JavaScript" scheme="https://nacl-fishs.github.io/categories/JavaScript/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript起步</title>
+    <link href="https://nacl-fishs.github.io/posts/8a4c4cee.html"/>
+    <id>https://nacl-fishs.github.io/posts/8a4c4cee.html</id>
+    <published>2023-11-29T16:36:29.000Z</published>
+    <updated>2023-11-29T16:38:39.733Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-1-程序书写的位置&quot;&gt;&lt;a href=&quot;#1-1-程序书写的位置&quot; class=&quot;headerlink&quot; title=&quot;1.1 程序书写的位置&quot;&gt;&lt;/a&gt;1.1 程序书写的位置&lt;/h3&gt;&lt;p&gt;在页面中，&lt;code&gt;&amp;lt;script</summary>
+        
+      
+    
+    
+    
+    <category term="JavaScript" scheme="https://nacl-fishs.github.io/categories/JavaScript/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>hello demo</title>
@@ -30,40 +76,6 @@
         
     <summary type="html">&lt;h2 id=&quot;Font属性&quot;&gt;&lt;a href=&quot;#Font属性&quot; class=&quot;headerlink&quot; title=&quot;Font属性&quot;&gt;&lt;/a&gt;Font属性&lt;/h2&gt;&lt;p&gt;使用 &lt;code&gt;font&lt;/code&gt; 属性，能够将字号、行高、字体一起设置。&lt;/p&gt;
 &lt;pre</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://nacl-fishs.github.io/posts/0.html"/>
-    <id>https://nacl-fishs.github.io/posts/0.html</id>
-    <published>2023-11-27T18:27:30.567Z</published>
-    <updated>2023-11-27T18:27:30.567Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://nacl-fishs.github.io/posts/4a17b156.html"/>
-    <id>https://nacl-fishs.github.io/posts/4a17b156.html</id>
-    <published>2023-11-27T18:27:30.567Z</published>
-    <updated>2023-11-27T18:27:30.567Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
         
       
     
